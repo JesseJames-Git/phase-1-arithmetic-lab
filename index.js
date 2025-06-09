@@ -8,7 +8,9 @@ console.log(multiply)
 
 // Multiplication 
 
-Math.round (Math.random() * 10 )
+let random = Math.round (Math.random() * 10 )
+console.log (random)
+
 
 //Generates random number greater than zero
 
